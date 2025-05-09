@@ -4,10 +4,10 @@
 
   - [X] J'ai accès à la GED de votre entreprise  
   - [X] La page de garde du catalogue contient le nom et le logo de l'entreprise  
-  - [ ] La racine de la GED est divisée en trois: 'Publié', 'En cours' et 'Archives'. Il n'y a aucun autre dossier   
-  - [ ] Le catalogue est publié dans la GED  
-  - [ ] Le document 'fabrication' contient la BOM du produit  
-  - [ ] Le document 'fabrication' contient la liste du matériel nécessaire à la fabrication  
+  - [X] La racine de la GED est divisée en trois: 'Publié', 'En cours' et 'Archives'. Il n'y a aucun autre dossier   
+  - [X] Le catalogue est publié dans la GED  
+  - [X] Le document 'fabrication' contient la BOM du produit  
+  - [X] Le document 'fabrication' contient la liste du matériel nécessaire à la fabrication  
   - [X] Le produit est présenté sur une page, avec un dessin illustratif, accompagné d'un texte descriptif  
 
 Prototype
